@@ -68,7 +68,7 @@ As a **Lead Flutter Developer**, I was responsible for:
 
 ---
 
-## 📸 Screenshots *(optional if you upload images later)*
+## 📸 Screenshots 
 
 <p float="left">
 (https://github.com/user-attachments/assets/eed0cc6a-e990-46a0-9010-c997b928f7d0)
